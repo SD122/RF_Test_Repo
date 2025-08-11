@@ -7,3 +7,7 @@ Cigna
 cigna.com
 john.doe@cigna.com
 jane.doe@cigna.com
+dev
+login
+password
+ssl
